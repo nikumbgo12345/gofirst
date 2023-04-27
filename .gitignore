@@ -1,0 +1,8 @@
+out
+.idea
+apifirst.go
+firstmain.go
+notrequired/go.mod
+notrequired/gofirst.iml
+learngo.go
+mean.go
